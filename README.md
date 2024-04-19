@@ -18,4 +18,13 @@
 - books.json
 - manuscript.js
 
+## Rooms
 
+* Room 1: The JSON Library
+- In this room, you are given a JSON object representing a library with several books. Your task is to find the most recent book.
+
+* Room 2: The Set Chamber
+- In this room, you are given two arrays of words. Your task is to find the common concepts (words that appear in both arrays).
+
+* Room 3: The Asynchronous Labyrinth
+- In this room, you are presented with a maze represented as a 2D array. Your task is to find the exit by navigating through the maze asynchronously.
